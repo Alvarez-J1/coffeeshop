@@ -71,3 +71,9 @@
 .about__paragraph:last-child {
   margin-bottom: 0;
 }
+
+@media (prefers-reduced-motion: reduce) {
+  .about__circle_animation_blurred {
+    animation: none;
+  }
+}

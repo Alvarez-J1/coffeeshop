@@ -26,3 +26,9 @@ html {
 .page__skip-link:focus-visible {
   left: 20px;
 }
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
