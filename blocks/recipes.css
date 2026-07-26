@@ -42,7 +42,9 @@
 .recipes__videos-iframe {
   border: none;
   width: 560px;
-  height: 315px;
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
 }
 
 .recipes__video-caption {
