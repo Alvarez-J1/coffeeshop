@@ -37,6 +37,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  object-fit: cover;
   z-index: -1;
 }
 
