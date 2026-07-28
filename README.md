@@ -18,5 +18,8 @@ The project focuses on semantic HTML, responsive layout, and structured CSS styl
 - Custom form implementation
 - Basic animations and transitions
 
+## Local Preview
+Open `index.html` in a browser to view the page locally. No build step or package installation is required.
+
 ## Status
 Project is complete and functions as intended.
