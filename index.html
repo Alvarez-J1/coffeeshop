@@ -159,7 +159,11 @@
                 placeholder="1-8"
                 inputmode="numeric"
                 title="Choose between 1 and 8 guests"
+                aria-describedby="guest-hint"
               />
+              <span id="guest-hint" class="form__hint">
+                Maximum 8 guests per table.
+              </span>
               <label for="date-input" class="form__label">Date & time *</label>
               <input
                 id="date-input"
