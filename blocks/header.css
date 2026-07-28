@@ -60,6 +60,10 @@
   color: #838383;
 }
 
+.header__address {
+  font-style: normal;
+}
+
 .header__span-accent {
   color: #3f96f3;
   display: block;
