@@ -43,6 +43,7 @@
   border: 1px solid #838383;
   border-radius: 4px;
   color: #000;
+  transition: border-color 0.3s ease-in-out;
 }
 
 .form__input::placeholder {
