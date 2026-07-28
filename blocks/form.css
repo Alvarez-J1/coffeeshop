@@ -37,6 +37,10 @@
   color: #838383;
 }
 
+.form__input:hover {
+  border-color: #1878dc;
+}
+
 .form__input:focus-visible {
   border-color: #1878dc;
   outline: 2px solid #1878dc;
