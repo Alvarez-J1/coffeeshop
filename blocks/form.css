@@ -103,6 +103,7 @@
   width: 20px;
   height: 20px;
   accent-color: #1878dc;
+  cursor: pointer;
 }
 
 .form__checkbox:focus-visible {
@@ -115,4 +116,5 @@
   justify-content: center;
   align-items: center;
   gap: 12px;
+  cursor: pointer;
 }
