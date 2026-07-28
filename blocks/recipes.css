@@ -39,6 +39,10 @@
   padding: 0;
 }
 
+.recipes__videos > li {
+  flex: 0 1 560px;
+}
+
 .recipes__videos-iframe {
   border: none;
   width: 560px;
