@@ -14,6 +14,17 @@
   height: 39px;
 }
 
+.footer__logo-link {
+  display: block;
+  line-height: 0;
+}
+
+.footer__logo-link:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
 .footer__column {
   margin: 0;
   display: flex;
