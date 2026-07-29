@@ -17,6 +17,7 @@ The project focuses on semantic HTML, responsive layout, and structured CSS styl
 - Flat BEM file structure for maintainable styles
 - Custom form implementation
 - Basic animations and transitions
+- Accessibility labels, focus states, and helper text
 
 ## Local Preview
 Open `index.html` in a browser to view the page locally. No build step or package installation is required.
