@@ -19,6 +19,7 @@
   padding: 0 80px 173px;
   justify-content: space-between;
   z-index: 1;
+  isolation: isolate;
 }
 
 .about__circle {
