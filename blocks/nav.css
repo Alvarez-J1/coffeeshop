@@ -2,6 +2,18 @@
   display: flex;
   justify-content: space-between;
 }
+
+.nav__logo-link {
+  display: block;
+  line-height: 0;
+}
+
+.nav__logo-link:focus-visible {
+  outline: 2px solid #2f80ed;
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
 .nav__logo {
   position: relative;
   left: -50px;
