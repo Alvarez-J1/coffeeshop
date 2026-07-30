@@ -122,3 +122,13 @@
   gap: 12px;
   cursor: pointer;
 }
+
+@media (prefers-reduced-motion: reduce) {
+  .form__button {
+    transition: background-color 0.4s ease-in-out;
+  }
+
+  .form__button:active {
+    transform: none;
+  }
+}
