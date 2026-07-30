@@ -25,6 +25,7 @@
 .nav__links {
   display: flex;
   flex-wrap: wrap;
+  justify-content: flex-end;
   list-style-type: none;
   gap: 20px;
   margin: 0;
