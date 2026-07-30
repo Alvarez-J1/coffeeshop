@@ -85,7 +85,7 @@
   color: #fff;
   background-color: #1878dc;
   cursor: pointer;
-  transition: background-color 0.4s ease-in-out;
+  transition: background-color 0.4s ease-in-out, transform 0.2s ease-in-out;
 }
 
 .form__button:hover {
@@ -94,6 +94,7 @@
 
 .form__button:active {
   background-color: #0a64bd;
+  transform: translateY(1px);
 }
 
 .form__button:focus-visible {
