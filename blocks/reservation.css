@@ -10,6 +10,7 @@
 .reservation__title {
   margin: 0 0 80px;
   text-align: center;
+  text-wrap: balance;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
