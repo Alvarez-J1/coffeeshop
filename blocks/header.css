@@ -32,6 +32,7 @@
   line-height: 30px;
   margin: 28px 0 0;
   max-width: 683px;
+  text-wrap: pretty;
 }
 
 .header__image {
