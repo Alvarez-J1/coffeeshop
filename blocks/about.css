@@ -65,6 +65,7 @@
 .about__paragraph {
   color: #fff;
   margin: 20px 0 0;
+  text-wrap: pretty;
 }
 
 .about__paragraph:first-child {
