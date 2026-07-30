@@ -9,6 +9,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: #f5f5f5;
+}
+
 .page {
   min-width: 1100px;
   max-width: 1600px;
