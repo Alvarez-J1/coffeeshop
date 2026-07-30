@@ -29,4 +29,4 @@ Review the page in a browser and use keyboard navigation to confirm focus states
 The page loads Google Fonts for typography and embedded YouTube videos for the recipe section.
 
 ## Status
-Project is complete and functions as intended.
+Project is complete as a static HTML/CSS website and functions as intended.
