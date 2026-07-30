@@ -37,6 +37,7 @@
 .form__input {
   display: block;
   width: 100%;
+  min-height: 60px;
   box-sizing: border-box;
   padding: 15px 20px;
   margin: 8px 0 32px;
