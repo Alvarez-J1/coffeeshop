@@ -22,6 +22,11 @@ The project focuses on semantic HTML, responsive layout, and structured CSS styl
 ## Local Preview
 Open `index.html` in a browser to view the page locally. No build step or package installation is required.
 
+## File Structure
+- `blocks/` contains BEM component styles.
+- `pages/` contains the main stylesheet entry point.
+- `images/` contains logos, backgrounds, and page artwork.
+
 ## Quality Checks
 Review the page in a browser and use keyboard navigation to confirm focus states and section links.
 
