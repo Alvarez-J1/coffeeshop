@@ -66,6 +66,10 @@
   font-style: normal;
 }
 
+.header__time {
+  white-space: nowrap;
+}
+
 .header__span-accent {
   color: #3f96f3;
   display: block;
