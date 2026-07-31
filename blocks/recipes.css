@@ -48,6 +48,7 @@
 }
 
 .recipes__videos-iframe {
+  display: block;
   border: none;
   width: 560px;
   max-width: 100%;
