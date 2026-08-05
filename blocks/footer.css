@@ -19,6 +19,7 @@
 
 .footer__logo-link {
   display: block;
+  flex-shrink: 0;
   line-height: 0;
 }
 
