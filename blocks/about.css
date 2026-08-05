@@ -32,6 +32,7 @@
   height: 426px;
   width: 426px;
   z-index: -1;
+  pointer-events: none;
 }
 .about__circle_animation_blurred {
   animation: pulsate 1.3s ease-in-out infinite;
