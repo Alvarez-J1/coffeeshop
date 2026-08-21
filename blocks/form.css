@@ -86,7 +86,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
-  color: #fff;
+  color: var(--color-text-inverse);
   background-color: var(--color-accent);
   cursor: pointer;
   transition: background-color 0.4s ease-in-out, transform 0.2s ease-in-out;
