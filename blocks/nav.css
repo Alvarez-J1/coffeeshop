@@ -43,7 +43,7 @@
   display: block;
   padding: 4px 0;
   text-decoration: none;
-  color: black;
+  color: var(--color-text-primary);
   transition: color 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
 
