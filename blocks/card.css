@@ -35,7 +35,7 @@
 }
 
 .card__list-divider {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid var(--color-text-primary);
   flex-grow: 1;
   min-width: 24px;
   margin: 0 4px;
