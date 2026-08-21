@@ -38,7 +38,7 @@
 
 .footer__social-heading {
   margin: 0 0 20px;
-  color: #fff;
+  color: var(--color-text-inverse);
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: bold;
