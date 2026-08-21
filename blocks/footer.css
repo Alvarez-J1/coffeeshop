@@ -107,3 +107,9 @@
   color: #fff;
   margin: 0;
 }
+
+@media (prefers-reduced-motion: reduce) {
+  .footer__social-link {
+    transition: none;
+  }
+}
