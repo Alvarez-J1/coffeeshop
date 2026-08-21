@@ -46,7 +46,7 @@
   font-family: inherit;
   font-size: 16px;
   line-height: 20px;
-  color: #000;
+  color: var(--color-text-primary);
   background-color: #fff;
   transition: border-color 0.3s ease-in-out;
 }
