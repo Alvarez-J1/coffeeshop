@@ -24,7 +24,7 @@
 }
 
 .footer__logo-link:focus-visible {
-  outline: 2px solid #fff;
+  outline: 2px solid var(--color-text-inverse);
   outline-offset: 4px;
   border-radius: 2px;
 }
@@ -93,7 +93,7 @@
 }
 
 .footer__social-link:focus-visible {
-  outline: 2px solid #fff;
+  outline: 2px solid var(--color-text-inverse);
   outline-offset: 4px;
   border-radius: 2px;
 }
