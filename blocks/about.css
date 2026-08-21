@@ -43,7 +43,7 @@
   margin: 100px 0 0;
   max-width: 251px;
   text-wrap: balance;
-  color: #fff;
+  color: var(--color-text-inverse);
   z-index: 2;
   position: relative;
   font-family: "Inter", Arial, sans-serif;
@@ -55,7 +55,7 @@
 
 .about__content {
   max-width: 660px;
-  color: #fff;
+  color: var(--color-text-inverse);
   font-family: "Noto Serif", Times New Roman, serif;
   font-style: normal;
   font-weight: normal;
@@ -65,7 +65,7 @@
 }
 
 .about__paragraph {
-  color: #fff;
+  color: var(--color-text-inverse);
   margin: 20px 0 0;
   text-wrap: pretty;
 }
