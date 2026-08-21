@@ -93,7 +93,7 @@
 }
 
 .form__button:hover {
-  background-color: #3f96f3;
+  background-color: var(--color-accent-hover);
 }
 
 .form__button:active {
