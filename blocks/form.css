@@ -56,7 +56,7 @@
 }
 
 .form__input:hover {
-  border-color: #1878dc;
+  border-color: var(--color-accent);
 }
 
 .form__input:focus-visible {
