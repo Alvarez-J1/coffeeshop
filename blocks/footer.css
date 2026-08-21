@@ -78,7 +78,7 @@
   align-items: center;
   transition: color 0.4s ease-in-out, opacity 0.4s ease-in-out;
   opacity: 1;
-  color: #fff;
+  color: var(--color-text-inverse);
   text-decoration: none;
 }
 
@@ -88,7 +88,7 @@
 }
 
 .footer__social-link:active {
-  color: #fff;
+  color: var(--color-text-inverse);
   opacity: 1;
 }
 
