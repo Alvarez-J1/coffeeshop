@@ -1,5 +1,5 @@
 .recipes {
-  color: #fff;
+  color: var(--color-text-inverse);
   background-color: #0a2750;
   margin: 0;
   padding: 100px 80px 215px;
