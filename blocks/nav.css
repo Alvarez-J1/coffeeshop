@@ -57,3 +57,9 @@
   outline-offset: 4px;
   border-radius: 2px;
 }
+
+@media (prefers-reduced-motion: reduce) {
+  .nav__link {
+    transition: none;
+  }
+}
