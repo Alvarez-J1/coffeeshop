@@ -52,7 +52,7 @@
 }
 
 .form__input::placeholder {
-  color: #838383;
+  color: var(--color-text-muted);
 }
 
 .form__input:hover {
