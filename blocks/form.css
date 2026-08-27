@@ -97,7 +97,7 @@
 }
 
 .form__button:active {
-  background-color: #0a64bd;
+  background-color: var(--color-button-active);
   transform: translateY(1px);
 }
 
