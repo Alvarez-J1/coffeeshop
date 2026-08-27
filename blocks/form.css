@@ -1,6 +1,6 @@
 .form {
   max-width: 385px;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: var(--font-sans);
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
