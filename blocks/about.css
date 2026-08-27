@@ -46,7 +46,7 @@
   color: var(--color-text-inverse);
   z-index: 2;
   position: relative;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: var(--font-sans);
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
