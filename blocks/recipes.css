@@ -13,7 +13,7 @@
   margin: 0 0 24px;
   max-width: 580px;
   text-wrap: balance;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: var(--font-sans);
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
