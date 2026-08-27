@@ -56,7 +56,7 @@ img {
 
 .page__skip-link:focus-visible {
   left: 20px;
-  outline: 2px solid #1878dc;
+  outline: 2px solid var(--color-accent);
   outline-offset: 4px;
 }
 
