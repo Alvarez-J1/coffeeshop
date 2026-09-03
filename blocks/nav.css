@@ -11,7 +11,7 @@
 
 .nav__logo-link:focus-visible {
   outline: var(--focus-outline-width) solid var(--color-link-accent);
-  outline-offset: 4px;
+  outline-offset: var(--focus-outline-offset);
   border-radius: 2px;
 }
 
@@ -54,7 +54,7 @@
 
 .nav__link:focus-visible {
   outline: var(--focus-outline-width) solid var(--color-link-accent);
-  outline-offset: 4px;
+  outline-offset: var(--focus-outline-offset);
   border-radius: 2px;
 }
 
