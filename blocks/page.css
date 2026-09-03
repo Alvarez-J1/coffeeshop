@@ -18,6 +18,7 @@
   --color-footer-link-hover: #c1c1c1;
   --font-sans: "Inter", Arial, sans-serif;
   --font-serif: "Noto Serif", Times New Roman, serif;
+  --focus-outline-width: 2px;
   --shadow-skip-link: 0 4px 12px rgb(0 0 0 / 15%);
 }
 
@@ -66,7 +67,7 @@ img {
 
 .page__skip-link:focus-visible {
   left: 20px;
-  outline: 2px solid var(--color-accent);
+  outline: var(--focus-outline-width) solid var(--color-accent);
   outline-offset: 4px;
 }
 
