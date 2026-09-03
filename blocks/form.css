@@ -61,7 +61,7 @@
 
 .form__input:focus-visible {
   border-color: var(--color-accent);
-  outline: 2px solid var(--color-accent);
+  outline: var(--focus-outline-width) solid var(--color-accent);
   outline-offset: 2px;
 }
 
@@ -102,7 +102,7 @@
 }
 
 .form__button:focus-visible {
-  outline: 2px solid var(--color-brand-navy);
+  outline: var(--focus-outline-width) solid var(--color-brand-navy);
   outline-offset: 4px;
 }
 
@@ -116,7 +116,7 @@
 }
 
 .form__checkbox:focus-visible {
-  outline: 2px solid var(--color-accent);
+  outline: var(--focus-outline-width) solid var(--color-accent);
   outline-offset: 2px;
 }
 
