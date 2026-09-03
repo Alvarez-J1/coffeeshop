@@ -29,7 +29,7 @@
 
 .footer__logo-link:focus-visible {
   outline: var(--focus-outline-width) solid var(--color-text-inverse);
-  outline-offset: 4px;
+  outline-offset: var(--focus-outline-offset);
   border-radius: 2px;
 }
 
@@ -98,7 +98,7 @@
 
 .footer__social-link:focus-visible {
   outline: var(--focus-outline-width) solid var(--color-text-inverse);
-  outline-offset: 4px;
+  outline-offset: var(--focus-outline-offset);
   border-radius: 2px;
 }
 
