@@ -20,6 +20,7 @@
   --font-serif: "Noto Serif", Times New Roman, serif;
   --focus-outline-width: 2px;
   --focus-outline-offset: 4px;
+  --focus-outline-offset-tight: 2px;
   --shadow-skip-link: 0 4px 12px rgb(0 0 0 / 15%);
 }
 
