@@ -18,6 +18,7 @@
   --color-footer-link-hover: #c1c1c1;
   --font-sans: "Inter", Arial, sans-serif;
   --font-serif: "Noto Serif", Times New Roman, serif;
+  --shadow-skip-link: 0 4px 12px rgb(0 0 0 / 15%);
 }
 
 html {
@@ -60,7 +61,7 @@ img {
   color: var(--color-text-primary);
   text-decoration: none;
   border-radius: 4px;
-  box-shadow: 0 4px 12px rgb(0 0 0 / 15%);
+  box-shadow: var(--shadow-skip-link);
 }
 
 .page__skip-link:focus-visible {
