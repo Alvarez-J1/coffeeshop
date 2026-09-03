@@ -103,7 +103,7 @@
 
 .form__button:focus-visible {
   outline: var(--focus-outline-width) solid var(--color-brand-navy);
-  outline-offset: 4px;
+  outline-offset: var(--focus-outline-offset);
 }
 
 .form__checkbox {
