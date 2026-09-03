@@ -54,7 +54,7 @@
   max-width: 100%;
   aspect-ratio: 16 / 9;
   height: auto;
-  background-color: #000;
+  background-color: var(--color-video-placeholder);
 }
 
 .recipes__video-caption {
