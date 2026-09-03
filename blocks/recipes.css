@@ -1,6 +1,6 @@
 .recipes {
   color: var(--color-text-inverse);
-  background-color: #0a2750;
+  background-color: var(--color-recipes-bg);
   margin: 0;
   padding: 100px 80px 215px;
   background-image: url(../images/background_recipes.svg);
