@@ -81,7 +81,7 @@ img {
 #book-a-table,
 #menu,
 #contacts {
-  scroll-margin-top: 24px;
+  scroll-margin-top: var(--section-scroll-margin);
 }
 
 @media (prefers-reduced-motion: reduce) {
