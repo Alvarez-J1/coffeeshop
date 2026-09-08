@@ -1,6 +1,6 @@
 .header {
   padding: 30px 80px 40px;
-  height: 800px;
+  height: var(--header-height);
   display: flex;
   flex-direction: column;
   background-image: url(../images/background_header.svg);
