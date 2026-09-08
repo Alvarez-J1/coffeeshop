@@ -31,6 +31,7 @@
   --transition-nav-link: color 0.3s ease-in-out, opacity 0.3s ease-in-out;
   --transition-footer-link: color 0.4s ease-in-out, opacity 0.4s ease-in-out;
   --transition-form-input: border-color 0.3s ease-in-out;
+  --transition-form-button: background-color 0.4s ease-in-out, transform 0.2s ease-in-out;
 }
 
 html {
