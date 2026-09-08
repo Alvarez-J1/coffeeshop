@@ -33,6 +33,7 @@
   --transition-form-input: border-color 0.3s ease-in-out;
   --transition-form-button: background-color 0.4s ease-in-out, transform 0.2s ease-in-out;
   --form-control-min-height: 60px;
+  --page-min-width: 1100px;
 }
 
 html {
