@@ -19,7 +19,7 @@
   display: block;
   position: relative;
   left: -50px;
-  width: 105px;
+  width: var(--logo-width);
   height: 39px;
 }
 
