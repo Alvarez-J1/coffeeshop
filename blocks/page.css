@@ -26,6 +26,7 @@
   --shadow-skip-link: 0 4px 12px rgb(0 0 0 / 15%);
   --section-scroll-margin: 24px;
   --logo-width: 105px;
+  --logo-height: 39px;
 }
 
 html {
