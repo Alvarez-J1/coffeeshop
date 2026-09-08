@@ -80,7 +80,7 @@
 .footer__social-link {
   display: inline-flex;
   align-items: center;
-  transition: color 0.4s ease-in-out, opacity 0.4s ease-in-out;
+  transition: var(--transition-footer-link);
   opacity: 1;
   color: var(--color-text-inverse);
   text-decoration: none;
