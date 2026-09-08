@@ -71,7 +71,7 @@
 }
 
 .footer__social-icon {
-  height: 16px;
+  height: var(--social-icon-size);
   width: 16px;
   margin-right: 10px;
   flex-shrink: 0;
