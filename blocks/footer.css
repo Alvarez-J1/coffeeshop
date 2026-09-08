@@ -17,7 +17,7 @@
 
 .footer__logo {
   display: block;
-  width: 105px;
+  width: var(--logo-width);
   height: 39px;
 }
 
