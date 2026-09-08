@@ -29,6 +29,7 @@
   --logo-height: 39px;
   --social-icon-size: 16px;
   --transition-nav-link: color 0.3s ease-in-out, opacity 0.3s ease-in-out;
+  --transition-footer-link: color 0.4s ease-in-out, opacity 0.4s ease-in-out;
 }
 
 html {
