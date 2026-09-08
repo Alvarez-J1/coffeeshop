@@ -19,6 +19,7 @@
   --font-sans: "Inter", Arial, sans-serif;
   --font-serif: "Noto Serif", Times New Roman, serif;
   --radius-sm: 4px;
+  --radius-focus: 2px;
   --focus-outline-width: 2px;
   --focus-outline-offset: 4px;
   --focus-outline-offset-tight: 2px;
