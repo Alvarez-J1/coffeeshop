@@ -30,6 +30,7 @@
   --social-icon-size: 16px;
   --transition-nav-link: color 0.3s ease-in-out, opacity 0.3s ease-in-out;
   --transition-footer-link: color 0.4s ease-in-out, opacity 0.4s ease-in-out;
+  --transition-form-input: border-color 0.3s ease-in-out;
 }
 
 html {
