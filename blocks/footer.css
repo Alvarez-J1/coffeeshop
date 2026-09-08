@@ -99,7 +99,7 @@
 .footer__social-link:focus-visible {
   outline: var(--focus-outline-width) solid var(--color-text-inverse);
   outline-offset: var(--focus-outline-offset);
-  border-radius: 2px;
+  border-radius: var(--radius-focus);
 }
 
 .footer__copyright {
