@@ -40,7 +40,7 @@
   top: 124px;
   right: 5px;
   width: var(--header-image-width);
-  height: 568px;
+  height: var(--header-image-height);
   object-fit: cover;
   z-index: -1;
 }
