@@ -4,7 +4,7 @@
     var(--color-brand-navy) 0%,
     var(--color-footer-navy-dark) 100%
   );
-  padding: 60px 80px;
+  padding: 60px var(--section-side-padding);
 }
 
 .footer__content {
