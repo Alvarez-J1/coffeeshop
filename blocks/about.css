@@ -16,7 +16,7 @@
   position: relative;
   overflow: hidden;
   display: flex;
-  padding: 0 80px 173px;
+  padding: 0 var(--section-side-padding) 173px;
   justify-content: space-between;
   gap: 40px;
   z-index: 1;
