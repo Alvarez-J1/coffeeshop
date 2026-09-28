@@ -1,5 +1,5 @@
 .reservation {
-  padding: 100px 0 120px;
+  padding: var(--section-start-padding) 0 120px;
   background-color: var(--color-reservation-bg);
   background-image: url(../images/background_reservation.svg);
   background-repeat: no-repeat;
