@@ -16,7 +16,7 @@
   font-family: var(--font-sans);
   font-style: normal;
   font-weight: 500;
-  font-size: 44px;
+  font-size: var(--section-title-font-size);
   line-height: 52px;
 }
 
