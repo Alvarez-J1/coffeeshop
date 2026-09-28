@@ -1,5 +1,5 @@
 .menu {
-  padding: 100px 0 100px;
+  padding: var(--section-start-padding) 0 var(--section-start-padding);
   background-color: var(--color-page-bg);
   background-image: url(../images/background_menu.svg);
   background-repeat: no-repeat;
