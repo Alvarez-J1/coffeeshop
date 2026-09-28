@@ -2,7 +2,7 @@
   color: var(--color-text-inverse);
   background-color: var(--color-recipes-bg);
   margin: 0;
-  padding: 100px var(--section-side-padding) 215px;
+  padding: var(--section-start-padding) var(--section-side-padding) 215px;
   background-image: url(../images/background_recipes.svg);
   background-position: center;
   background-repeat: no-repeat;
