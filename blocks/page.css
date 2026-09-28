@@ -38,6 +38,7 @@
   --header-height: 800px;
   --header-image-width: 646px;
   --header-image-height: 568px;
+  --section-side-padding: 80px;
 }
 
 html {
